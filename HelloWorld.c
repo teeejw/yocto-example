@@ -5,6 +5,6 @@
 #include "HelloWorld.h"
 
 int main(int argc, char *argv[]) {
-	printf("Hello World...\n");
+	printf("Hello World...\nThis is customized");
 	return 0;
 }
